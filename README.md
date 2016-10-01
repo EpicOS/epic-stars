@@ -1,6 +1,9 @@
 # EpicStars
 A project to create a directory of other open source projects that members of our group hope to contribute to some day. The main purpose is to help find projects to contribute to, and eventually to share links or comments about your contributions as a way to encourage others and help them get started too.
 
+## [HACKTOBERFEST](https://hacktoberfest.digitalocean.com)
+Digital Ocean is sponsoring this event to encourage open source contributions in October. If you contribute 4 or more pull-requests to projects/issues marked as "Hactoberfest" you get a free t-shirt. Easy and free to register for the event.
+
 ## [Bootstrap](https://github.com/twbs/bootstrap)
 Some interesting issues that are open right now for Bootstrap...
 * [Creating a "Resources" page to feature books & videos](https://github.com/twbs/bootstrap/issues/20772) - because it looks like something easy for a beginner to take on.
